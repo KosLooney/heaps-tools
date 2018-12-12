@@ -1,0 +1,9 @@
+{
+	"name" : "heaps-tools",
+	"license" : "MIT",
+    "description" : "Heaps tools",
+    "version" : "0.0.0",
+	"releasenote" : "",
+	"contributors" : ["tong"],
+	"dependencies" : { "heaps" : "" }
+}
