@@ -1,5 +1,9 @@
 package h3d.helper;
 
+import h3d.scene.RenderContext;
+import h3d.scene.Object;
+import h3d.scene.Mesh;
+
 class BoxHelper extends h3d.scene.Graphics {
 
 	public var mesh(default,null) : Mesh;
